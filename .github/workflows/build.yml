@@ -6,7 +6,7 @@ on:
     inputs:
       attendee_ref:
         description: "attendee-labs/attendee commit or tag"
-        default: "3cbeb69"
+        default: "3cbeb69fb838bbcb9ef6915f4c1e04b5a1c08e2c"
         required: true
 permissions:
   contents: read
